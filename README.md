@@ -1,7 +1,7 @@
 # Launcher
 Quick launch programs with keyboard ![image](https://github.com/jvanlangen/Launcher/assets/1532756/2a7919e7-303c-4573-8288-23aaeff5e4dd) + <kbd>`</kbd> _(WinKey + Tilde)_. WAY faster than the windows start menu. 
 
-Jeroen: *"I personally use it as a tool to quickly navigate to frequently used applications, websites, and folders. It saves me a lot of time by reducing unnecessary clicks through my explorer."*
+*Jeroen: "I personally use it as a tool to quickly navigate to frequently used applications, websites, and folders. It saves me a lot of time by reducing unnecessary clicks through my explorer."*
 
 Tiny software (< 100k) no installation needed. (only .NET Framework 4.8)
 
