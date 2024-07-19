@@ -1,4 +1,4 @@
-# Launcher
+# Launcher - Your Personalized Start Menu: Quick Access to What Matters Most.
 Quick launch programs with keyboard ![image](https://github.com/jvanlangen/Launcher/assets/1532756/2a7919e7-303c-4573-8288-23aaeff5e4dd) + <kbd>`</kbd> _(WinKey + Tilde)_. WAY faster than the windows start menu. 
 
 *Jeroen: "I personally use it as a tool to quickly navigate to frequently used applications, websites, and folders. It saves me a lot of time by reducing unnecessary clicks through my explorer."*
