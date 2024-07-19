@@ -1,5 +1,5 @@
 # Launcher - Your Personalized Start Menu: Quick Access to What Matters Most.
-Quick launch programs with keyboard ![image](https://github.com/jvanlangen/Launcher/assets/1532756/2a7919e7-303c-4573-8288-23aaeff5e4dd) + <kbd>`</kbd> _(WinKey + Tilde)_. Way faster than the windows start menu. 
+Quick launch programs with keyboard ![image](https://github.com/jvanlangen/Launcher/assets/1532756/2a7919e7-303c-4573-8288-23aaeff5e4dd) + <kbd>`</kbd> _(WinKey + Tilde)_. Simply by adding shortcuts to a personalized folder. Way faster than the windows start menu. 
 
 Tiny software (< 100k) no installation needed. (only .NET Framework 4.8)
 
